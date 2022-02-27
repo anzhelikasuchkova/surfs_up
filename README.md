@@ -2,7 +2,8 @@
 
 ## Overview of the Analysis:
 
-### Resources
+### Resources:
+
 - Data Source: hawaii.sqlite
 - Date Tools: Python SQL toolkit (SQLAlchemy), Object Relational Mapper, pandas, numpy
 - Software: SQLlite, Python 3.9.7, Jupyter Notebook
