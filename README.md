@@ -28,5 +28,6 @@ Write a report that helps prepare information about temperature trends before op
 
 ### Deliverable 3: A written report on the employee database analysis (README.md)
 
+ - Temperatures in June are higher than in December making it more favorable to open the shop during the month of June for maximum profit. 
 
 
