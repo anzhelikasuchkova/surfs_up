@@ -26,6 +26,7 @@ Write a report that helps prepare information about temperature trends before op
 
 <img width="145" alt="Summary Statistics for December" src="https://user-images.githubusercontent.com/93845867/155866000-79c59dd8-b3a3-4898-98be-221b5d465b57.png">
 
+### Deliverable 3: A written report on the employee database analysis (README.md)
 
 
 
