@@ -10,7 +10,7 @@
 
 ### Objective: 
 
-Write a report that helps prepare information about temperature trends before opening the surf shop in Oahu. Specifically, we wants temperature data for the months of June and December, in order to determine if the surf and ice cream shop business is sustainable year-round.
+Write a report that helps prepare information about temperature trends before opening the surf shop in Oahu. Specifically, we want temperature data for the months of June and December, in order to determine if the surf and ice cream shop business is sustainable year-round.
 
 - Deliverable 1: Determine the Summary Statistics for June
 - Deliverable 2: Determine the Summary Statistics for December
