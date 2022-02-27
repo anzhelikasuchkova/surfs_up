@@ -34,5 +34,6 @@ Write a report that helps prepare information about temperature trends before op
 
 <img width="603" alt="Addtional Query 1" src="https://user-images.githubusercontent.com/93845867/155866391-2d9335d3-82fe-426e-aa5a-e5882526611c.png">
 
+- Comparing them side by side, we can see more clearly that it's more favorable for the owner to open the shop during the month of June. 
 
 
