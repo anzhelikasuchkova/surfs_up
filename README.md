@@ -26,8 +26,12 @@ Write a report that helps prepare information about temperature trends before op
 
 <img width="145" alt="Summary Statistics for December" src="https://user-images.githubusercontent.com/93845867/155866000-79c59dd8-b3a3-4898-98be-221b5d465b57.png">
 
+ - Temperatures in June are higher than in December making it more favorable to open the shop during the month of June for maximum profit. 
+ - Lowest temperatures in December are significantly lower than in June which makes it less favorable for surfing or eating ice-cream. 
+ - 
+
 ### Deliverable 3: A written report on the employee database analysis (README.md)
 
- - Temperatures in June are higher than in December making it more favorable to open the shop during the month of June for maximum profit. 
+
 
 
