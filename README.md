@@ -16,7 +16,7 @@ Write a report that helps prepare information about temperature trends before op
 - Deliverable 2: Determine the Summary Statistics for December
 - Deliverable 3: A written report on the employee database analysis (README.md)
 
-### Results: 
+# Results
 
 ## Deliverable 1: Determine the Summary Statistics for June:
 
