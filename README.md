@@ -32,6 +32,7 @@ Write a report that helps prepare information about temperature trends before op
 
 ### Deliverable 3: A written report on the employee database analysis (README.md)
 
+<img width="603" alt="Addtional Query 1" src="https://user-images.githubusercontent.com/93845867/155866391-2d9335d3-82fe-426e-aa5a-e5882526611c.png">
 
 
 
